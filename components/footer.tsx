@@ -70,7 +70,6 @@ export function Footer() {
         </div>
 
         <div className="border-t border-border my-8" />
-
         {/* Bottom Row */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
           <p>&copy; {new Date().getFullYear()} Double A Hoops Academy. All rights reserved.</p>
