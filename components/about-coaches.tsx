@@ -12,7 +12,7 @@ const coaches = [
   {
     name: "Aneesh",
     role: "Head Coach & Co-Founder",
-    bio: "Aneesh started playing basketball in 1st grade on his ymca team with friends but started taking it seriously when he joined an aau team in third grade. Aneesh fell in love with the game through watching the warriors winning championships and inspiring all Bay Area kids to pick up a basketball. Aneesh has always loved teaching and whether it’s academics or sports Aneesh can connect with kids and give them some of the knowledge he has.",
+    bio: "Aneesh has 7 years of AAU experience and was also a team captain for his team. In middle school, he was the Offensive MVP for Blach Middle School. In high school, he played on the Mountain View JV team and was the leading scorer. He was also named Freshman of the Year and earned 3rd Team All-League honors. Aneesh has a great love for the game and a willingness to improve every day, and he is ready to share that with the next generation.",
     specialties: ["Offensive Moves", "Defense", "Mental Toughness"],
     initial: "A",
     image: "/images/coach-aneesh.jpg",
